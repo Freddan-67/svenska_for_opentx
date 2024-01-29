@@ -1,0 +1,288 @@
+system|0000|noll
+system|0001|ett
+system|0002|två
+system|0003|tre
+system|0004|fyra
+system|0005|fem
+system|0006|sex
+system|0007|sju
+system|0008|åtta
+system|0009|nio
+system|0010|tio
+system|0011|elva
+system|0012|tolv
+system|0013|tretton
+system|0014|fjorton
+system|0015|femton
+system|0016|16
+system|0017|17
+system|0018|18
+system|0019|19
+system|0020|20
+system|0021|21
+system|0022|22
+system|0023|23
+system|0024|24
+system|0025|25
+system|0026|26
+system|0027|27
+system|0028|28
+system|0029|29
+system|0030|30
+system|0031|31
+system|0032|32
+system|0033|33
+system|0034|34
+system|0035|35
+system|0036|36
+system|0037|37
+system|0038|38
+system|0039|39
+system|0040|40
+system|0041|41
+system|0042|42
+system|0043|43
+system|0044|44
+system|0045|45
+system|0046|46
+system|0047|47
+system|0048|48
+system|0049|49
+system|0050|50
+system|0051|51
+system|0052|52
+system|0053|53
+system|0054|54
+system|0055|55
+system|0056|56
+system|0057|57
+system|0058|58
+system|0059|59
+system|0060|60
+system|0061|61
+system|0062|62
+system|0063|63
+system|0064|64
+system|0065|65
+system|0066|66
+system|0067|67
+system|0068|68
+system|0069|69
+system|0070|70
+system|0071|71
+system|0072|72
+system|0073|73
+system|0074|74
+system|0075|75
+system|0076|76
+system|0077|77
+system|0078|78
+system|0079|79
+system|0080|80
+system|0081|81
+system|0082|82
+system|0083|83
+system|0084|84
+system|0085|85
+system|0086|86
+system|0087|87
+system|0088|88
+system|0089|89
+system|0090|90
+system|0091|91
+system|0092|92
+system|0093|93
+system|0094|94
+system|0095|95
+system|0096|96
+system|0097|97
+system|0098|98
+system|0099|99
+system|0100|100
+system|0101|200
+system|0102|300
+system|0103|400
+system|0104|500
+system|0105|600
+system|0106|700
+system|0107|800
+system|0108|900
+system|0109|tusen
+system|0110|och
+system|0111|minus
+system|0112|punkter
+system|volt0|volt
+system|volt1|volt
+system|amp0|ampere
+system|amp1|ampere
+system|mamp0|milliampere
+system|mamp1|milliampere
+system|knot0|knop
+system|knot1|knop
+system|mps0|meter per sekund
+system|mps1|meter per sekund
+system|fps0|fot per sekund
+system|fps1|fot per sekund
+system|kph0|kilometer i timmen
+system|kph1|kilometer i timmen
+system|mph0|mile i timmen
+system|mph1|miles i timmen
+system|meter0|meter
+system|meter1|meter
+system|foot0|fot
+system|foot1|fot
+system|celcius0|grader celcius
+system|celcius1|grader celcius
+system|fahr0|farenheit
+system|fahr1|farenheit
+system|procent0|procent
+system|procent1|procent
+system|mamph0|milliamperetimme
+system|mamph1|milliamperetimmar
+system|watt0|watt
+system|watt1|watt
+system|mwatt0|milliwatt
+system|mwatt1|milliwatt
+system|db0|D B
+system|db1|D B
+system|rpm0|varv per minut
+system|rpm1|varv per minut
+system|g0|g
+system|g1|g
+system|degree0|grader
+system|degree1|grader
+system|rad0|radian
+system|rad1|radianer
+system|ml0|milliliter
+system|ml1|milliliter
+system|flounce0|flytande ounce
+system|flounce1|flytande ounce
+system|ml0m0|mililiter per minut
+system|ml0m1|mililiter per minut
+system|herz0|herz
+system|herz1|herz
+system|ms0|millisekund
+system|ms1|millisekunder
+system|us0|mikrosekund
+system|us1|mikrosekund
+system|km0|kilometer
+system|km1|kilometer
+system|hour0|timme
+system|hour1|timmar
+system|minute0|minut
+system|minute1|minuter
+system|second0|sekund
+system|second1|sekunder
+system|0167|punkt 0
+system|0168|punkt 1
+system|0169|punkt 2
+system|0170|punkt 3
+system|0171|punkt 4
+system|0172|punkt 5
+system|0173|punkt 6
+system|0174|punkt 7
+system|0175|punkt 8
+system|0176|punkt 9
+system|midtrim|medeltrim
+system|maxtrim|maximum trim
+system|mintrim|minimum trim
+system|timove1|timer 1 förfluten
+system|timove2|timer 2 förfluten
+system|timove3|timer 3 förfluten
+system|lowbatt|sändarebatteri lågt
+system|inactive|alarm för inaktivitet
+system|thralert|trottelvarning
+system|swalert|switchvarning
+system|hello|välkommen till Open te ex
+system|rssi_org|Radiosignal
+system|rssi_rf|Radiosignal
+system|swr_red|Radioantenn trasig
+system|telemko|Telemetri förlorad
+system|telemok|Telemetri återställd
+system|trainko|Elevsingal förlorad
+system|trainok|elevsignal återställd
+system|sensorko|sensor förlorad
+system|sensorok|sensor återställd
+system|rxko|effekt överlast
+system|modelpwr|varning modell är ansluten
+system|aileron_trim|skevroder trim
+system|elevator_trim|höjdroder trim
+system|throttle_trim|gas trim
+system|rudder_trim|sidoroder trim
+system|main_page|huvudsida
+system|category_disabled|kategori avstängd
+system|category_enabled|kategori påsatt
+.|acro|akrobatik
+.|armed|armerad
+.|crowof|kråka av
+.|corwon|kråka på
+.|disarm|avväpnad
+.|engoff|motor av
+.|flapsdn|flaps ner
+.|flapsup|flaps upp
+.|fm-1|flygläge ett
+.|fm-2|flygläge två
+.|fm-3|flygläge tre
+.|fm-4|flygläge fyra
+.|fm-5|flygläge fem
+.|fm-6|flygläge sex
+.|fm-7|flygläge sju
+.|fm-8|flygläge åtta
+.|vrioff|variometer av
+.|vrion|variometer på
+.|fm-pwr|flygläge kraft
+.|fm-lnd|flygläge landa
+.|fm-nrm|flygläge normal
+.|fm-acr|flygläge akrobatik
+.|fm-rce|flygläge race
+.|fm-lch|flygläge starta
+.|fm-png|flygläge ping
+.|fm-ang|flygläge vinkel
+.|fm-crs|flygläge krus
+.|fm-flt|flygläge flyta
+.|fm-spd|flygläge hastighet
+.|fm-stb|stabiliserat flygläge
+.|fm-thl|flygläge termik vänster
+.|fm-thm|flygläge termik
+.|fm-thr|flygläge termik höger
+.|fm-hor|horisontellt flygläge
+.|fm-id1|flygläge ledig up 1
+.|fm-id2|flygläge ledig up 2
+.|geardn|hjul ner
+.|gearup|hjul upp
+.|lnding|landningsläge på
+.|lowbat|lågt batteri varning
+.|lq|låg kvalitet
+.|nrmmod|normalt läge på
+.|rfmod|radiofrekvensläge
+.|sigcrit|signalnivå kritisk
+.|siglow|signalnivå låg
+.|spdmod|flygläge för hög hastiget
+.|nrmod|normalt flygläge
+.|splrdn|spoilers ner
+.|splrup|spoilers upp
+.|thmmod|termikläge aktivt
+.|thract|gas aktiverad
+.|thrcut|gas avstängd
+.|tohigh|för högt
+.|tolow|för lågt
+.|trnoff|elevläge av
+.|trnon|elevläge på
+.|rathi|stora utslag
+.|ratlow|små utslag
+.|ratmed|medelutslag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
