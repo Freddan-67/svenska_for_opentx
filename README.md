@@ -9,3 +9,5 @@ Select Astrid, Swedish, Female
 Select Go!
 
 There is supposed to be 274 files, I managed to find 273 only, so one file is missing from the SYSTEM directory
+
+The files should be placed on /SOUNDS/se and /SOUNDS/se/SYSTEM folders on sd card.
